@@ -1,0 +1,5 @@
+Meutas Medium — existing portfolio display typeface.
+Source: https://db.onlinewebfonts.com/c/1d74be5de8676b951f415d89f9d3a663?family=Meutas+Medium
+The provider declares CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Font made from Web Fonts: https://www.onlinewebfonts.com/fonts
+The font is served unchanged; this local copy removes a render-time dependency.
