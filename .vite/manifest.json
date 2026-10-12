@@ -1,0 +1,11 @@
+{
+  "scripts/github-pages/client.tsx": {
+    "file": "assets/client-DZb7gPmx.js",
+    "name": "client",
+    "src": "scripts/github-pages/client.tsx",
+    "isEntry": true,
+    "css": [
+      "assets/client-BSfZaami.css"
+    ]
+  }
+}

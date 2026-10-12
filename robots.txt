@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ttttt6161.github.io/aigc-visual-portfolio-preview/sitemap.xml
