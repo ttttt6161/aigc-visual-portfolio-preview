@@ -4,12 +4,12 @@
     "src": "public/fonts/meutas-medium.woff2"
   },
   "scripts/github-pages/client.tsx": {
-    "file": "assets/client-BZODJ8Wk.js",
+    "file": "assets/client-BDlpTfbf.js",
     "name": "client",
     "src": "scripts/github-pages/client.tsx",
     "isEntry": true,
     "css": [
-      "assets/client-BuyXtx4O.css"
+      "assets/client-SB0gsNyc.css"
     ],
     "assets": [
       "assets/meutas-medium-CtxdV7Mf.woff2"
