@@ -21,7 +21,7 @@
     "src": "public/fonts/meutas-medium.woff2"
   },
   "scripts/github-pages/client.tsx": {
-    "file": "assets/client-g71Y_aGv.js",
+    "file": "assets/client-7zDxIhC_.js",
     "name": "client",
     "src": "scripts/github-pages/client.tsx",
     "isEntry": true,
@@ -32,7 +32,7 @@
       "node_modules/.pnpm/pdfjs-dist@5.4.296/node_modules/pdfjs-dist/build/pdf.mjs"
     ],
     "css": [
-      "assets/client-CH2xqFHe.css"
+      "assets/client-SmqxRG3X.css"
     ],
     "assets": [
       "assets/pdf.worker.min-qwK7q_zL.mjs",
