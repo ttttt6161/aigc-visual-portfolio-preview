@@ -1,17 +1,41 @@
 {
+  "_preload-helper-euEz69Uv.js": {
+    "file": "assets/preload-helper-euEz69Uv.js",
+    "name": "preload-helper"
+  },
+  "node_modules/.pnpm/pdfjs-dist@5.4.296/node_modules/pdfjs-dist/build/pdf.mjs": {
+    "file": "assets/pdf-Bu2SS5Vj.js",
+    "name": "pdf",
+    "src": "node_modules/.pnpm/pdfjs-dist@5.4.296/node_modules/pdfjs-dist/build/pdf.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_preload-helper-euEz69Uv.js"
+    ]
+  },
+  "node_modules/.pnpm/pdfjs-dist@5.4.296/node_modules/pdfjs-dist/build/pdf.worker.min.mjs": {
+    "file": "assets/pdf.worker.min-qwK7q_zL.mjs",
+    "src": "node_modules/.pnpm/pdfjs-dist@5.4.296/node_modules/pdfjs-dist/build/pdf.worker.min.mjs"
+  },
   "public/fonts/meutas-medium.woff2": {
     "file": "assets/meutas-medium-CtxdV7Mf.woff2",
     "src": "public/fonts/meutas-medium.woff2"
   },
   "scripts/github-pages/client.tsx": {
-    "file": "assets/client-DSUPvE0z.js",
+    "file": "assets/client-ZAz2qyUv.js",
     "name": "client",
     "src": "scripts/github-pages/client.tsx",
     "isEntry": true,
+    "imports": [
+      "_preload-helper-euEz69Uv.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/pdfjs-dist@5.4.296/node_modules/pdfjs-dist/build/pdf.mjs"
+    ],
     "css": [
-      "assets/client-1540xSDF.css"
+      "assets/client-CH2xqFHe.css"
     ],
     "assets": [
+      "assets/pdf.worker.min-qwK7q_zL.mjs",
       "assets/meutas-medium-CtxdV7Mf.woff2"
     ]
   }
